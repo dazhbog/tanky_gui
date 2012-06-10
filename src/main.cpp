@@ -8,7 +8,7 @@
 /*****************************************************************************
 ** Includes
 *****************************************************************************/
-//update test1
+//update test22
 #include <QtGui>
 #include <QApplication>
 #include "../include/tanky_gui/main_window.hpp"
